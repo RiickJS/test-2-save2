@@ -25,6 +25,10 @@ export default function Page() {
           t1="Slow-carb next level shoindxgoitch ethical authentic, scenester sriracha forage."
           t2="Button"
         />
+        <TestBlock
+          t1="Slow-carb next level shoindxgoitch ethical authentic, scenester sriracha forage."
+          t2="Button"
+        />
         <tailblocksblock2 t1="Block2" />
         <TestBlock
           t1="Slow-carb next level shoindxgoitch ethical authentic, scenester sriracha forage."
